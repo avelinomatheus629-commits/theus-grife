@@ -1,0 +1,6 @@
+{
+  "name": "MAISON SARTORIAL | Moda Masculina Premium",
+  "description": "Landing page de moda masculina de luxo inspirada na elegância de Giorgio Armani e Prada, no heritage esportivo da Lacoste e na vanguarda técnica da Oakley, com compra rápida instantânea.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
